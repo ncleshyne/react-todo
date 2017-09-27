@@ -17,5 +17,5 @@ This should direct you to a local server (the default is 3000).
 
 ### Screenshot
 You should be able to see something like this:
-[Todo](https://www.clipular.com/c/5526436772577280.png?k=15HneoDY3hQ0Zl-90u9kL1JSmnc)]
+[Todo](https://www.clipular.com/c/5526436772577280.png?k=15HneoDY3hQ0Zl-90u9kL1JSmnc)
 
